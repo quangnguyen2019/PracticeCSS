@@ -1,0 +1,35 @@
+.general-content {
+    padding: 45px 0;
+}
+
+.general-content .sub-content {
+    padding: 0 15px;
+}
+
+.general-content .sub-content i {
+    float: left;
+    padding: 14px;
+    border-radius: 50%;
+    color: #ff5f83;
+    margin-right: 14px;
+    box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .3);
+    transition: all .3s;
+}
+
+.general-content .sub-content:hover i {
+    background-color: #ff5f83;
+    color: #fff;
+}
+
+.general-content .sub-content h4 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.general-content .sub-content p {
+    overflow: hidden;
+    color: #aaa;
+    line-height: 24px;
+}

@@ -46,9 +46,3 @@
 .home-btn .app-btn .fab {
     padding-right: 5px;
 }
-
-.d-flex {
-    display: flex;
-    align-items: center;
-    height: 100vh;
-}
