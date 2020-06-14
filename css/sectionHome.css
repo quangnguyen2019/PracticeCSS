@@ -1,0 +1,54 @@
+.home-bg {
+    background-image: url("../images/home-bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.home-bg .overlay {
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.home-bg .text-home {
+    width: 60%;
+    color: #fff;
+    margin-left: 20px;
+}
+
+.home-bg .text-home h2 {
+    line-height: 60px;
+    font-family: lato;
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.home-bg .text-home .home-btn {
+    margin-top: 50px;
+}
+
+.home-btn .app-btn {
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 15px 18px;
+    border-radius: 30px;
+    font-size: 18px;
+    text-decoration: none;
+    margin-right: 20px;
+    transition: all .5s;
+}
+
+.home-btn .app-btn:hover {
+    background: #fff;
+    color: black;
+}
+
+.home-btn .app-btn .fab {
+    padding-right: 5px;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
