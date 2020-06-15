@@ -1,0 +1,39 @@
+#feature .feature-one img {
+    padding: 70px 50px;
+}
+
+#feature .feature-one .content-feature {
+    padding-left: 98px;
+    padding-right: 56px;
+}
+
+.feature-one .content-feature span {
+    font-size: 45px;
+}
+
+.feature-one .content-feature strong {
+    font-size: 45px;
+}
+
+.feature-one .content-feature p {
+    padding: 30px 0px;
+    color: gray;
+}
+
+.feature-one .content-feature a {
+    text-decoration: none;
+    background-color: #ececec;
+    padding: 16px 20px;
+    font-size: 13px;
+    color: #959494;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    transition: all .4s;
+    outline: none;
+    text-transform: uppercase;
+}
+
+.feature-one .content-feature a:hover {
+    background-color: rgb(255, 95, 131);
+    color: #fff;
+}
