@@ -1,0 +1,53 @@
+.reasons {
+    padding: 25px 0 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.reasons .sub-reason {
+    box-sizing: border-box;
+    padding: 15px 30px 15px 15px;
+}
+
+.reasons .sub-reason .icon {
+    text-align: left;
+    padding: 20px 20px 20px 0;
+}
+
+.reasons .sub-reason .icon i {
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 27px;
+    color: #ff5f83;
+    margin-right: 14px;
+    box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .3);
+    transition: all .3s;
+}
+
+.reasons .sub-reason:hover i {
+    background-color: #ff5f83;
+    color: #fff;
+}
+
+.reasons .sub-reason h4 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.reasons .sub-reason p {
+    text-align: left;
+    overflow: hidden;
+    color: #aaa;
+    line-height: 24px;
+}
+
+.img-why-choose img {
+    width: 472px;
+}
