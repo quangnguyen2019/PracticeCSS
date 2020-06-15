@@ -1,0 +1,20 @@
+.why-choose {
+    text-align: center;
+    padding: 50px;
+}
+
+.why-choose h2 {
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #888;
+}
+
+.why-choose span {
+    margin: 15px 0;
+    display: inline-block;
+}
+
+.why-choose p {
+    letter-spacing: 1px;
+    color: #aaa;
+}
