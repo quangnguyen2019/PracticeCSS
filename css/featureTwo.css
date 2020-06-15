@@ -1,28 +1,28 @@
-#feature .feature-one img {
+.feature-two img {
     padding: 70px 50px;
 }
 
-#feature .feature-one .content-feature {
-    padding-left: 98px;
-    padding-right: 56px;
+.feature-two .content-feature {
+    padding-left: 66px;
+    padding-right: 22px;
 }
 
-.feature-one .content-feature span {
+.feature-two .content-feature span {
     font-size: 45px;
 }
 
-.feature-one .content-feature strong {
+.feature-two .content-feature strong {
     font-size: 45px;
 }
 
-.feature-one .content-feature p {
+.feature-two .content-feature p {
     padding: 20px 0px 36px;
     color: gray;
     line-height: 25px;
     letter-spacing: 1px;
 }
 
-.feature-one .content-feature a {
+.feature-two .content-feature a {
     text-decoration: none;
     background-color: #ececec;
     padding: 16px 20px;
@@ -35,7 +35,7 @@
     text-transform: uppercase;
 }
 
-.feature-one .content-feature a:hover {
+.feature-two .content-feature a:hover {
     background-color: rgb(255, 95, 131);
     color: #fff;
 }
